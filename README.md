@@ -1,31 +1,23 @@
-# Angular-Framework
-Activité Pratique N° 5 : Angular Framework
+# JEE-Activite-5
 
-Objectif :
+Le but de cette activite est de reprendre l'exemple de la démo pour maitriser les concepts fondamentaux de Angular.
+
+### Travail à faire ###
 Créer une application web basée sur Angular qui permet de gérer les produits. Chaque Produit est défini par son id, name, price, quantity, available. Le backend de l'application est basé sur une REST API basée sur Json-Server
 L'application doit permettre de :
+1. Afficher les produits;
+2. Chercher les produits;
+3. Faire la pagination;
+4. Supprimer un produits;
+5. Editer un produit;
+6. Mettre à jour un produit;
+7. Faire l'authentification et protéger les routes.
 
-- Afficher les produits
-  
-- Chercher les produits
- 
-- Faire la pagination
-
-- Supprimer un produits
-
-- Editer un produit
-
-- Mettre à jour un produit
-
-- Faire l'authentification et protéger les routes
-  
-
-
-Vidéos :
- - Part 1 : https://www.youtube.com/watch?v=Bq-vewCZk-o&authuser=0
- - Part 2 : https://www.youtube.com/watch?v=h0zPn2d4fGI&authuser=0
--  Par 3 : https://www.youtube.com/watch?v=ejQg0Ugm9s8
- - Part 4 : https://www.youtube.com/watch?v=ZWQtLaRM49o&authuser=0
+=> Vidéos à utiliser comme ressources : 
+- Partie 1 : https://www.youtube.com/watch?v=Bq-vewCZk-o&authuser=0
+- Partie 2 : https://www.youtube.com/watch?v=h0zPn2d4fGI&authuser=0
+- Partie 3 : https://www.youtube.com/watch?v=ejQg0Ugm9s8&t=224s&ab_channel=ProfesseurMohamedYOUSSFI
+- Partie 4 : https://www.youtube.com/watch?v=ZWQtLaRM49o&authuser=0
 
 ### Présentation d'Angular ### 
 
